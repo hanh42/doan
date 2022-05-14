@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinacenter\\source\\repos\\ConsoleApp91\\ConsoleApp91\\ConsoleApp91.csproj": {}
+    "C:\\Users\\Vinacenter\\OneDrive\\Documents\\GitHub\\doan\\ConsoleApp91\\ConsoleApp91.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinacenter\\source\\repos\\ConsoleApp91\\ConsoleApp91\\ConsoleApp91.csproj": {
+    "C:\\Users\\Vinacenter\\OneDrive\\Documents\\GitHub\\doan\\ConsoleApp91\\ConsoleApp91.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinacenter\\source\\repos\\ConsoleApp91\\ConsoleApp91\\ConsoleApp91.csproj",
+        "projectUniqueName": "C:\\Users\\Vinacenter\\OneDrive\\Documents\\GitHub\\doan\\ConsoleApp91\\ConsoleApp91.csproj",
         "projectName": "ConsoleApp91",
-        "projectPath": "C:\\Users\\Vinacenter\\source\\repos\\ConsoleApp91\\ConsoleApp91\\ConsoleApp91.csproj",
+        "projectPath": "C:\\Users\\Vinacenter\\OneDrive\\Documents\\GitHub\\doan\\ConsoleApp91\\ConsoleApp91.csproj",
         "packagesPath": "C:\\Users\\Vinacenter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinacenter\\source\\repos\\ConsoleApp91\\ConsoleApp91\\obj\\",
+        "outputPath": "C:\\Users\\Vinacenter\\OneDrive\\Documents\\GitHub\\doan\\ConsoleApp91\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

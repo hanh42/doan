@@ -22,7 +22,7 @@ namespace ConsoleApp91
             _ = new LoanSlip(1, 1, 1, 1);
             _ = new LoanSlip(2, 2, 2, 2);
 
- 
+            Console.WriteLine(123);
 
 
 
