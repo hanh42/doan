@@ -1,0 +1,14 @@
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\bin\Debug\netcoreapp3.1\ConsoleApp91.exe
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\bin\Debug\netcoreapp3.1\ConsoleApp91.deps.json
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\bin\Debug\netcoreapp3.1\ConsoleApp91.runtimeconfig.json
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\bin\Debug\netcoreapp3.1\ConsoleApp91.runtimeconfig.dev.json
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\bin\Debug\netcoreapp3.1\ConsoleApp91.dll
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\bin\Debug\netcoreapp3.1\ConsoleApp91.pdb
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.csproj.AssemblyReference.cache
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.AssemblyInfoInputs.cache
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.AssemblyInfo.cs
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.csproj.CoreCompileInputs.cache
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.dll
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.pdb
+C:\Users\Vinacenter\source\repos\ConsoleApp91\ConsoleApp91\obj\Debug\netcoreapp3.1\ConsoleApp91.genruntimeconfig.cache
